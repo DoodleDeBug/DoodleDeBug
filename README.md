@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DoodleDeBug
-- 👀 I’m interested in developing mobile apps
-- 🌱 I’m currently learning Javascript, Dart and Flutter
+- 👀 I’m interested in developing mobile apps and making educational games
+- 🌱 I’m currently learning Ruby
 
 
 <!---
