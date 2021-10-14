@@ -3,7 +3,7 @@
 - 👀 I’m interested in developing mobile apps and making educational games
 - 🌱 I’m currently on the 3 month Makers Bootcamp
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
 ### Languages and Tools
 
