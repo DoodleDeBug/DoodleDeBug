@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @DoodleDeBug
+### Hi there, I’m DoodleDeBug 👋
+
 - 👀 I’m interested in developing mobile apps and making educational games
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently on the 3 month Makers Bootcamp
 
 
 <!---
