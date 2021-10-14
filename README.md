@@ -5,11 +5,9 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDoodleDeBug&countColor=%23dce775)
 
-![stats](https://github-readme-stats.vercel.app/api?username=DoodleDeBug&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=DoodleDeBug&show_icons=true&&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoodleDeBug&layout=compact)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoodleDeBug&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
 DoodleDeBug/DoodleDeBug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
