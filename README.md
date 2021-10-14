@@ -5,9 +5,6 @@
 
 ### Languages and Tools
 
-![image](https://user-images.githubusercontent.com/75613073/137345435-f40afe18-a815-435a-a5ad-8ef0509969c6.png)
-
-
 
 <!---
 DoodleDeBug/DoodleDeBug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
