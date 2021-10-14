@@ -7,7 +7,7 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=DoodleDeBug)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoodleDeBug&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoodleDeBug&layout=compact)
 
 
 ### Languages and Tools
