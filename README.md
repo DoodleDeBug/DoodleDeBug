@@ -5,10 +5,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDoodleDeBug&countColor=%23dce775)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=DoodleDeBug)]
-
-[![e](https://github-readme-stats.vercel.app/api?username=DoodleDeBug)](https://github.com/anuraghazra/github-readme-stats)
-
+![stats](https://github-readme-stats.vercel.app/api?username=DoodleDeBug)
 
 ### Languages and Tools
 
