@@ -5,7 +5,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDoodleDeBug&countColor=%23dce775)
 
-![stats](https://github-readme-stats.vercel.app/api?username=DoodleDeBug)
+![stats](https://github-readme-stats.vercel.app/api?username=DoodleDeBug&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoodleDeBug&layout=compact)
 
