@@ -7,7 +7,7 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=DoodleDeBug&show_icons=true&&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoodleDeBug&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoodleDeBug&layout=compact&langs_count=8)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
