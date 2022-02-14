@@ -1,7 +1,7 @@
 ### Hi there, I’m DoodleDeBug 👋
 
 - 👀 I’m interested in developing mobile apps and making educational games
-- 🌱 I’m currently on the 3 month Makers Bootcamp
+- 🌱 Graduate of the 3 month Makers Bootcamp
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDoodleDeBug&countColor=%23dce775)
 
