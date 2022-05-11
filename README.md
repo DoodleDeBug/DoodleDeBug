@@ -3,8 +3,6 @@
 - 👀 I’m interested in developing mobile apps and making educational games
 - 🌱 Graduate of the 3 month Makers Bootcamp
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDoodleDeBug&countColor=%23dce775)
-
 ![stats](https://github-readme-stats.vercel.app/api?username=DoodleDeBug&show_icons=true&&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoodleDeBug&layout=compact&langs_count=8)
