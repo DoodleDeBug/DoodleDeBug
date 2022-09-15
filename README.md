@@ -1,7 +1,8 @@
 ### Hi there, I’m DoodleDeBug 👋
 
-- 👀 I’m interested in developing mobile apps and making educational games
+- 🌱 I’m interested in making educational games
 - 🌱 Graduate of the 3 month Makers Bootcamp
+- 🌱 Currently learning Next.js, React and Cypress
 
 ![stats](https://github-readme-stats.vercel.app/api?username=DoodleDeBug&show_icons=true&&count_private=true&include_all_commits=true)
 
